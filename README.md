@@ -1,7 +1,6 @@
 Olá, me chamo Pedro Carvalho </br>
 Seja bem vindo ao meu perfil do GitHub! 👋
 
-- 🌱 Atualmente, estou aprendendo HTML, CSS e JavaScript.
 - 👯 Procuro me tornar desenvolvedor front-end em médio prazo e desenvolvedor full-stack em longo prazo.
 - 📫 Meu e-mail: pedhenrique909@gmail.com
 
